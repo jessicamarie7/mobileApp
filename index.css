@@ -59,7 +59,6 @@ button:hover {
 ul {
     display: flex;
     flex-wrap: wrap;
-    width: 500px;
     list-style-type: none;
     gap: 20px;
 }
